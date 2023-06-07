@@ -1,4 +1,4 @@
- <img src="./Svelte.png" width="100%"/>
+ <img src="./Svelte.jpg" width="100%"/>
   
 ## 🤗Welcome to our **Open Source** community! 🤗
 
